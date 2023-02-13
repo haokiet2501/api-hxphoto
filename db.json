@@ -1,19 +1,19 @@
 {
   "posts": [
     { 
-      "id": 1, 
+      "id": "Ky Niem Anh Va Em", 
       "name": "Testing1",
       "title": "json-server", 
       "author": "typicode" 
     },
     { 
-      "id": 2, 
+      "id": "Ky Niem Anh", 
       "name": "Testing2",
       "title": "json-server", 
       "author": "typicode" 
     },
     { 
-      "id": 3, 
+      "id": "Ky Niem", 
       "name": "Testing3",
       "title": "json-server", 
       "author": "typicode" 
