@@ -3,7 +3,7 @@ const jsonServer = require('json-server')
 const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
-const PORT = 4000
+const PORT = 4000 || 5000
 
 server.use(middlewares)
 // Add this before server.use(router)
@@ -12,7 +12,7 @@ server.use(jsonServer.rewriter({
     '/blog/:resource/:id/show': '/:resource/:id'
 }))
 server.use(router)
-server.listen(4000, () => {
+server.listen(PORT, () => {
     console.log('JSON Server is running')
 })
 
