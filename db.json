@@ -2,9 +2,9 @@
   "albums": [
     {
       "_id": "2e9490b9ed79",
-      "imageCover": "https://images.unsplash.com/photo-1541089404510-5c9a779841fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGNvdXBsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
-      "width": 5616,
-      "height": 3744,
+      "imageCover": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1685958844/Slider/manuel-meurisse-EuCll-F5atI-unsplash_zibzrl.jpg",
+      "width": 4240,
+      "height": 2832,
       "category": "Couple",
       "name": "Kỷ Niệm Anh Và Em",
       "description": "Gặp được nhau trên đời đã là duyên nhưng cùng nhau sống về lâu dài mới là sự cố gắng giữa hai ta, anh không muốn khoảnh khắc tuyệt vời này chỉ trôi qua đơn giản như vậy vì vậy lý do bộ ảnh này đã như thế thực hiện.",
@@ -48,10 +48,10 @@
     },
     {
       "_id": "e82bd50a326a",
-      "imageCover": "https://images.unsplash.com/photo-1541089404510-5c9a779841fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGNvdXBsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
-      "width": 5616,
-      "height": 3744,
-      "category": "Couple",
+      "imageCover": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1685958843/Slider/nathan-mcbride-YLkBly2HVHY-unsplash_zfc95c.jpg",
+      "width": 6016,
+      "height": 4016,
+      "category": "Product",
       "name": "Kỷ Niệm Anh Và Em",
       "description": "Gặp được nhau trên đời đã là duyên nhưng cùng nhau sống về lâu dài mới là sự cố gắng giữa hai ta, anh không muốn khoảnh khắc tuyệt vời này chỉ trôi qua đơn giản như vậy vì vậy lý do bộ ảnh này đã như thế thực hiện.",
       "pictures": [
@@ -94,10 +94,10 @@
     },
     {
       "_id": "7bddee30dac7",
-      "imageCover": "https://images.unsplash.com/photo-1541089404510-5c9a779841fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGNvdXBsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
-      "width": 5616,
-      "height": 3744,
-      "category": "Couple",
+      "imageCover": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1685958839/Slider/everton-vila-AsahNlC0VhQ-unsplash_ttymud.jpg",
+      "width": 5315,
+      "height": 3543,
+      "category": "Events",
       "name": "Kỷ Niệm Anh Và Em",
       "description": "Gặp được nhau trên đời đã là duyên nhưng cùng nhau sống về lâu dài mới là sự cố gắng giữa hai ta, anh không muốn khoảnh khắc tuyệt vời này chỉ trôi qua đơn giản như vậy vì vậy lý do bộ ảnh này đã như thế thực hiện.",
       "pictures": [
@@ -140,10 +140,10 @@
     },
     {
       "_id": "6db5b34c9834",
-      "imageCover": "https://images.unsplash.com/photo-1541089404510-5c9a779841fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGNvdXBsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
-      "width": 5616,
-      "height": 3744,
-      "category": "Couple",
+      "imageCover": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1685958838/Slider/cody-black-VDb0wxbfG6k-unsplash_w4chku.jpg",
+      "width": 4096,
+      "height": 2695,
+      "category": "Wedding",
       "name": "Kỷ Niệm Anh Và Em",
       "description": "Gặp được nhau trên đời đã là duyên nhưng cùng nhau sống về lâu dài mới là sự cố gắng giữa hai ta, anh không muốn khoảnh khắc tuyệt vời này chỉ trôi qua đơn giản như vậy vì vậy lý do bộ ảnh này đã như thế thực hiện.",
       "pictures": [
@@ -185,11 +185,11 @@
       ]
     },
     {
-      "_id": "798be8ffd3ef",
-      "imageCover": "https://images.unsplash.com/photo-1541089404510-5c9a779841fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGNvdXBsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
-      "width": 5616,
-      "height": 3744,
-      "category": "Couple",
+      "_id": "6db5b34c9834",
+      "imageCover": "https://res.cloudinary.com/dr2hz2wxn/image/upload/v1685958838/Slider/cody-black-VDb0wxbfG6k-unsplash_w4chku.jpg",
+      "width": 4096,
+      "height": 2695,
+      "category": "Portrait",
       "name": "Kỷ Niệm Anh Và Em",
       "description": "Gặp được nhau trên đời đã là duyên nhưng cùng nhau sống về lâu dài mới là sự cố gắng giữa hai ta, anh không muốn khoảnh khắc tuyệt vời này chỉ trôi qua đơn giản như vậy vì vậy lý do bộ ảnh này đã như thế thực hiện.",
       "pictures": [
